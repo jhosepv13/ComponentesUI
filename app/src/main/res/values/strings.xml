@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">ComponentesUI</string>
+    <string name="app_name">ComponentsUI</string>
+    <string name="date">Date:</string>
+
+    <string-array name="android_layout_arrays">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+
 </resources>
+
